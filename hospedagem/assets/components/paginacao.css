@@ -1,0 +1,12 @@
+.hoteis__paginacao {
+    align-items: center;
+    display: flex;
+    font-size: var(--fonte-pequena);
+    justify-content: center;
+    position: relative;
+    gap: 2rem;
+}
+
+.hoteis__paginacao-destaque {
+    color:  var(--cor-principal);
+}
